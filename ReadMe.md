@@ -1,5 +1,6 @@
 - spawn the SqLite work
-  - ...
+  - anticipate the need for more Guidance via a SoW
+    - can a new repo help?  ( especially gived the CoPilot PR support )
   - Shared AsksH may be effective within LzH
 
 - "architecture" chat should follow OnTheList needs
