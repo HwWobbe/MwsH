@@ -1,4 +1,4 @@
-- architecture chat should follow OnTheList needs
+- "architecture" chat should follow OnTheList needs
   - accept "inevitably needed", but must be SoWed
     - this will inevitably be impacted by healthIssues
       - try to determine the potential extent of delays
