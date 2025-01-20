@@ -1,3 +1,7 @@
+- spawn the SqLite work
+  - ...
+    - Shared AsksH may be effective within LzH
+
 - "architecture" chat should follow OnTheList needs
   - accept "inevitably needed", but must be SoWed
     - this will inevitably be impacted by healthIssues
