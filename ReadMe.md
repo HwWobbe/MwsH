@@ -12,6 +12,7 @@
             - ask Prw if we have Enterprise access
               - if not, ask Dpl if we should
                 - CoPilot will then work in Private repos
+                  - confirm that with boost
             - at the very least this is EdD - and educational
               - Enumerate the UnCertainties
                 - this should also be a boost talk that I am well prepared for
