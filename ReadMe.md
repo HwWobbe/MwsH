@@ -8,7 +8,9 @@
     - plan for this
       - collect GitHub notes into a ConText that can then be used in AsksH
         - Privacy may require the use of offLine ( local) ) tools
-          - evaluate the use of CoPilot in thiese ConText(s)
+          - evaluate the use of CoPilot in these ConText(s)
+            - at the very least this is EdD - and educational
+              - Enumerate the UnCertainties
 
 - "architecture" chat should follow OnTheList needs
   - accept "inevitably needed", but must be SoWed
