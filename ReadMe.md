@@ -5,6 +5,7 @@
         - integrate the notes from the other repo
        
   - Shared AsksH may be effective within LzH
+    - plan for this
 
 - "architecture" chat should follow OnTheList needs
   - accept "inevitably needed", but must be SoWed
