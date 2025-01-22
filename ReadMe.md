@@ -9,6 +9,8 @@
       - collect GitHub notes into a ConText that can then be used in AsksH
         - Privacy may require the use of offLine ( local) ) tools
           - evaluate the use of CoPilot in these ConText(s)
+            - ask Prw if we have Enterprise access
+              - if not, ask Dpl if we should 
             - at the very least this is EdD - and educational
               - Enumerate the UnCertainties
                 - this should also be a boost talk that I am well prepared for
