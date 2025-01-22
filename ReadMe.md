@@ -6,6 +6,8 @@
        
   - Shared AsksH may be effective within LzH
     - plan for this
+      - collect GitHub notes into a ConText that can then be used in AsksH
+        - Privacy may require the use of offLine ( local) ) tools
 
 - "architecture" chat should follow OnTheList needs
   - accept "inevitably needed", but must be SoWed
