@@ -11,6 +11,7 @@
           - evaluate the use of CoPilot in these ConText(s)
             - at the very least this is EdD - and educational
               - Enumerate the UnCertainties
+                - this should also be a boost talk that I am well prepared for
 
 - "architecture" chat should follow OnTheList needs
   - accept "inevitably needed", but must be SoWed
