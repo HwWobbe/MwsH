@@ -12,6 +12,7 @@
             - at the very least this is EdD - and educational
               - Enumerate the UnCertainties
                 - this should also be a boost talk that I am well prepared for
+                  - try using their GitHub or Jira interface(s)
 
 - "architecture" chat should follow OnTheList needs
   - accept "inevitably needed", but must be SoWed
