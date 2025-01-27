@@ -1,8 +1,10 @@
 ### Notes:
 - the postingGap due to 2025-01/travelNeeds
   - ...
-- linkDeeper to headinfs from TwH
+
+- linkDeeper to headings from TwH
   - ...
+ 
 - autoIndentation
   - needed testing - seemed to FAIL
   
