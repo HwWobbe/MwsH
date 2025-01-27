@@ -5,6 +5,7 @@
         - integrate the notes from the other repo
   - assume SJ may become an EdD component
     - confirm that the boast reporting tools will halp
+      - there should be more detailed instructions for setup
 
   - Shared AsksH may be effective within LzH
     - plan for this
