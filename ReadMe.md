@@ -19,6 +19,7 @@
   - expanded use may benefit
 
 - spawn the SqLite work
+  - TA is asking to negotiate hourly rate rather than fixed price.
   - anticipate the need for more Guidance via a SoW
     - can a new repo help?  ( especially gived the CoPilot PR support )
       - at the least this may stimluate learningForBpH
