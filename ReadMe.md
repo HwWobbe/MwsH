@@ -1,3 +1,5 @@
+
+## Performance bundles
 - spawn the SqLite work
   - anticipate the need for more Guidance via a SoW
     - can a new repo help?  ( especially gived the CoPilot PR support )
@@ -7,6 +9,8 @@
     - confirm that the boast reporting tools will halp
       - there should be more detailed instructions for setup
 
+
+## AsksLxH
   - Shared AsksH may be effective within LzH
     - plan for this
       - collect GitHub notes into a ConText that can then be used in AsksH
@@ -21,6 +25,8 @@
                 - this should also be a boost talk that I am well prepared for
                   - try using their GitHub or Jira interface(s)
 
+
+## ArchitectureRole
 - "architecture" chat should follow OnTheList needs
   - accept "inevitably needed", but must be SoWed
     - this will inevitably be impacted by healthIssues
