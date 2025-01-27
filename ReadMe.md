@@ -1,4 +1,7 @@
 ### Notes:
+- review the use of Projects
+  - try using Asks
+
 - the postingGap due to 2025-01/travelNeeds
   - ...
 
