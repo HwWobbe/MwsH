@@ -22,10 +22,11 @@
   - TA is asking to negotiate hourly rate rather than fixed price.
     - discuss this with Lz
       - we will enhance our SoWs to reduce "uncertainty".
-        - That will also help us measure relativevalue from among our contractors
+        - That will also help us measure relativeValue from among our contractors
           - BetterSow:
             - add Eric's explanation
             - ...
+            - note that Scope of a SAow can be increased when the need for additional work is presented
   - anticipate the need for more Guidance via a SoW
     - can a new repo help?  ( especially gived the CoPilot PR support )
       - at the least this may stimluate learningForBpH
