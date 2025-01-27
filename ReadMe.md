@@ -1,4 +1,7 @@
-- Note the postingGap due to 2025-01/travelNeeds
+### Notes:
+- the postingGap due to 2025-01/travelNeeds
+  - autoIndentation
+    - needs testing
   
 ## Performance bundles
 - spawn the SqLite work
