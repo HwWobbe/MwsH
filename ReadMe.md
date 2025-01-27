@@ -10,7 +10,7 @@
       - there should be more detailed instructions for setup
 
 
-## AsksLxH
+## AsksLsH
   - Shared AsksH may be effective within LzH
     - plan for this
       - collect GitHub notes into a ConText that can then be used in AsksH
