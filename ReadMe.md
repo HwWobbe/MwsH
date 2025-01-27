@@ -1,7 +1,7 @@
 ### Notes:
 - review the use of Projects
   - try using Asks
-- is heatMapOrder self-adjusting
+- heatMapOrder is self-adjusting
 
 - the postingGap due to 2025-01/travelNeeds
   - ...
