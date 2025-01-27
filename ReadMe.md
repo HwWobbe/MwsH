@@ -26,7 +26,7 @@
           - BetterSow:
             - add Eric's explanation
             - ...
-            - note that Scope of a SAow can be increased when the need for additional work is presented
+            - note that Scope of a SAow can be increased when more work is needed
   - anticipate the need for more Guidance via a SoW
     - can a new repo help?  ( especially gived the CoPilot PR support )
       - at the least this may stimluate learningForBpH
