@@ -2,6 +2,8 @@
 - review the use of Projects
   - try using Asks
 - heatMapOrder is self-adjusting
+  - perhaps using another repo will improve control
+    - a separate ...Tp file might be more useful
 
 - the postingGap due to 2025-01/travelNeeds
   - ...
