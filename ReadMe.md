@@ -3,7 +3,9 @@
     - can a new repo help?  ( especially gived the CoPilot PR support )
       - at the least this may stimluate learningForBpH
         - integrate the notes from the other repo
-       
+  - assume SJ may become an EdD component
+    - confirm that the boast reporting tools will halp
+
   - Shared AsksH may be effective within LzH
     - plan for this
       - collect GitHub notes into a ConText that can then be used in AsksH
