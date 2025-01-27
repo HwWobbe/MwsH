@@ -4,6 +4,9 @@
   - needed testing - seemed to FAIL
   
 ## Performance bundles
+- test the Authentication work
+  - expanded use may benefit
+
 - spawn the SqLite work
   - anticipate the need for more Guidance via a SoW
     - can a new repo help?  ( especially gived the CoPilot PR support )
