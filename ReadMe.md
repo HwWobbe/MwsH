@@ -1,4 +1,5 @@
-
+- Note the postingGap due to 2025-01/travelNeeds
+  
 ## Performance bundles
 - spawn the SqLite work
   - anticipate the need for more Guidance via a SoW
