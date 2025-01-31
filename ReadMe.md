@@ -7,6 +7,7 @@
 - heatMapOrder is self-adjusting
   - perhaps using another repo will improve control
     - a separate ...Tp file might be more useful
+  - AsksH about generis heatMap build capabilities in Market ConText(s)
 
 - the postingGap due to 2025-01/travelNeeds
   - ...
