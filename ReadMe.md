@@ -17,9 +17,13 @@
  
 - autoIndentation
   - needed testing - seemed to FAIL
+
   
-## EdD should benefit from more publication
-... particularly the LaLo and Mws performance resolutions
+### EdD should benefit from more publication
+
+- ... particularly the LaLo and Mws performance resolutions 
+  - that are the bulk of Lz/Es efforts
+
 
 ## Performance bundles
 - test the Authentication work
