@@ -18,8 +18,8 @@
 - autoIndentation
   - needed testing - seemed to FAIL
   
-## EdD should benefit from nore publication
-...
+## EdD should benefit from more publication
+... particularly the LaLo and Mws performance resolutions
 
 ## Performance bundles
 - test the Authentication work
