@@ -18,6 +18,9 @@
 - autoIndentation
   - needed testing - seemed to FAIL
   
+## EdD should benefit from nore publication
+...
+
 ## Performance bundles
 - test the Authentication work
   - expanded use may benefit
