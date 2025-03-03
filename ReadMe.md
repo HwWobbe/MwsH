@@ -2,8 +2,9 @@
 - review the use of Projects
   - try using Asks
   - resume testing now that Es is making sliceAndDice progress
-    - ensure the needed linbks are readily accessible
+    - ensure the needed links are readily accessible
       - likely via TwH - for at least a bit of a securityDelay
+      - consuder the alternatives
 - heatMapOrder is self-adjusting
   - perhaps using another repo will improve control
     - a separate ...Tp file might be more useful
