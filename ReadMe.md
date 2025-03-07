@@ -1,6 +1,7 @@
 ### Notes:
 - review the use of Projects
-  - try using Asks
+  - try using Asks ...
+    - ... to Transform the information
   - resume testing now that Es is making sliceAndDice progress
     - ensure the needed links are readily accessible
       - likely via TwH - for at least a bit of a securityDelay
