@@ -4,6 +4,7 @@
     - ... to Transform the information
       - should this become a PR?
         - some of the new Agents could be helpful
+          - build a Proof of Concept. initially within PrivaTe pages.
   - resume testing now that Es is making sliceAndDice progress
     - ensure the needed links are readily accessible
       - likely via TwH - for at least a bit of a securityDelay
