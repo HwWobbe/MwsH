@@ -10,7 +10,8 @@
     - ensure the needed links are readily accessible
       - likely via TwH - for at least a bit of a securityDelay
       - consider the alternatives
-        - KfwT v. TA 
+        - KfwT v. TA
+          - this needs to progress
 - heatMapOrder is self-adjusting
   - perhaps using another repo will improve control
     - a separate ...Tp file might be more useful
