@@ -2,7 +2,7 @@
 - review the use of Projects
   - try using Asks, but pause this process whilst becoming familiar with MyG...
     - ...
-      -
+      - review the markup that created the effect
     - ... to Transform the information
       - should this become a PR?
         - some of the new Agents could be helpful
