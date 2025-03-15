@@ -8,6 +8,9 @@
         - some of the new Agents could be helpful
           - build a Proof of Concept. initially within Private pages.
             - making use of the COPY blocks
+- discuss JrT's SandBox suggesion
+  - also ask about a TA replacement
+    - ...
   - resume testing now that Es is making sliceAndDice progress
     - ensure the needed links are readily accessible
       - likely via TwH - for at least a bit of a securityDelay
