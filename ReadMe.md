@@ -1,6 +1,6 @@
 ### Notes:
 - review the use of Projects
-  - try using Asks ...
+  - try using Asks, but pause this process whilst becoming familiar with MyG... 
     - ... to Transform the information
       - should this become a PR?
         - some of the new Agents could be helpful
