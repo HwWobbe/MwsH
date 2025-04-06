@@ -1,4 +1,9 @@
 ### Notes:
+
+- talk with JR re an updated test site
+- Eric will send a JSON export
+  - pass that one to DfDpl
+ 
 - review the use of Projects
 - ...
   - try using Asks, but pause this process whilst becoming familiar with MyG...
