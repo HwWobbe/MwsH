@@ -2,7 +2,8 @@
 
 - talk with JR re an updated test site
 - Eric will send a JSON export
-  - pass that one to DfDpl
+  - pass that on to DfDpl
+  - discuss the need to focus on Spare Dev resources in order to mitigate the productivity hit that stems from releasing a weak Dev.
  
 - review the use of Projects
 - ...
