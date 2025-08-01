@@ -1,5 +1,9 @@
 ### Notes:
 
+- resolve communications problem
+  -  strive for consensus
+    -  "common statement" goal
+
 - talk with JR re an updated test site
   - contact re upgraded Test site 
 - Eric will send a JSON export
