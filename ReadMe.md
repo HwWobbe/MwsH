@@ -3,6 +3,7 @@
 - resolve communications problem
   -  strive for consensus
     -  "common statement" goal
+      -  review and refine each week
 
 - talk with JR re an updated test site
   - contact re upgraded Test site 
