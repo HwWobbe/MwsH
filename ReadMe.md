@@ -3,7 +3,7 @@
 - resolve communications problem
   -  strive for consensus
     -  "common statement" goal
-      -  review and refine each week
+      - review and refine each week
       - consider the endgame for this matter.
 
 - talk with JR re an updated test site
