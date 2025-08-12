@@ -5,7 +5,7 @@
     -  "common statement" goal.
       - review and refine each week.
         - consider the endgame for this matter.
-
+  - resolve the unitended spacing/tab gliych
 - talk with JR re an updated test site
   - contact re upgraded Test site 
 - Eric will send a JSON export
