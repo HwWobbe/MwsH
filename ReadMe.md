@@ -1,8 +1,8 @@
 ### Notes:
 
 - resolve communications problem
-  -  strive for consensus
-    -  "common statement" goal
+  -  strive for consensus.
+    -  "common statement" goal.
       - review and refine each week.
        - consider the endgame for this matter.
 
