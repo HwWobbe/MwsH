@@ -10,6 +10,7 @@
   - contact re upgraded Test site 
 - Eric will send a JSON export
   - pass that on to DfDpl
+    - was this re-railed by the realization that Sonny has a process that creates the Location tiddlers?
   - discuss the need to focus on Spare Dev resources in order to mitigate the productivity hit that stems from releasing a weak Dev.
  
 - review the use of Projects
