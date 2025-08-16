@@ -7,6 +7,7 @@
         - consider the endgame for this matter.
           - 'publish' transcripts
       - explain the needs in the context of Audits
+- review the preceding as unintended duplication and then remove that
 - resolve the unitended spacing/tab gliych
 - talk with JR re an updated test site
   - contact re upgraded Test site 
