@@ -5,6 +5,7 @@
     -  "common statement" goal.
       - review and refine each week.
         - consider the endgame for this matter.
+          - 'oublish' transcripts
   - resolve the unitended spacing/tab gliych
 - talk with JR re an updated test site
   - contact re upgraded Test site 
