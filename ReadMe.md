@@ -6,7 +6,7 @@
       - review and refine each week.
         - consider the endgame for this matter.
           - 'publish' transcripts
-    - explain the needs in the context of Audits
+      - explain the needs in the context of Audits
   - resolve the unitended spacing/tab gliych
 - talk with JR re an updated test site
   - contact re upgraded Test site 
