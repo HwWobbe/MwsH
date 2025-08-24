@@ -8,7 +8,10 @@
           - 'publish' transcripts
       - explain the needs in the context of Audits
 - review the preceding as unintended duplication and then remove that
-- resolve the unitended spacing/tab gliych
+- prepare for ...Tn(s)
+  - specifically wrt MWS
+- https://substack.com/home/post/p-169203088
+- resolve the unitended spacing/tab glitch
 - talk with JR re an updated test site
   - contact re upgraded Test site 
 - Eric will send a JSON export
