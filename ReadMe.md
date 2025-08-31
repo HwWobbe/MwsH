@@ -6,7 +6,7 @@
       - review and refine each week.
         - consider the endgame for this matter.
           - 'publish' transcripts
-      - explain the needs in the context of Audits
+      - explain the needs in the context of Review Engagement audits
 - review the preceding as unintended duplication and then remove that
 - prepare for ...Tn(s)
   - specifically wrt MWS
