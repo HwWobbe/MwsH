@@ -1,5 +1,8 @@
 ### Notes:
 
+- 2026-05-01: review TwTalk.MWS state
+  - value proposition
+    - AiImpacts?
 - resolve communications problem
   -  strive for consensus.
     -  "common statement" goal.
