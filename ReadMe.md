@@ -3,6 +3,7 @@
 - 2026-05-01: review TwTalk.MWS state
   - value proposition
     - AiImpacts?
+  - refine the bi-directional KeepG transfers
 - resolve communications problem
   -  strive for consensus.
     -  "common statement" goal.
