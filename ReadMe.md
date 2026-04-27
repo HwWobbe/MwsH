@@ -1,5 +1,7 @@
 ### Notes:
 
+- m2026-04-27: assess progress
+  - ...
 - 2026-05-01: review TwTalk.MWS state
   - value proposition
     - AiImpacts?
