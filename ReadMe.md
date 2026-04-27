@@ -1,7 +1,7 @@
 ### Notes:
 
 - m2026-04-27: assess progress
-  - ...
+  - ... ; paced br sub3x rule 
 - 2026-05-01: review TwTalk.MWS state
   - value proposition
     - AiImpacts?
